@@ -83,10 +83,10 @@ comments:
   active: 'giscus'        # The global switch for posts comments, e.g., 'disqus'.  Keep it empty means disable
   giscus:
     repo: slormbuilds/slormbuilds.github.io              # <gh-username>/<repo>
-    repo_id: 566989201
-    category:
-    category_id:
-    mapping:           # optional, default to 'pathname'
+    repo_id: R_kgDOIcuRkQ
+    category: Posts
+    category_id: DIC_kwDOIcuRkc4CSmiI
+    mapping: title          # optional, default to 'pathname'
     input_position:    # optional, default to 'bottom'
     lang:              # optional, default to the value of `site.lang`
     reactions_enabled: # optional, default to the value of `1`
