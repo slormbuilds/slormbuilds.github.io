@@ -3,11 +3,14 @@
 cdns:
   # Google Fonts
   - url: https://fonts.googleapis.com
+    args: crossorigin
   - url: https://fonts.gstatic.com
     args: crossorigin
   - url: https://fonts.googleapis.com
+    args: crossorigin
   # jsDelivr CDN
   - url: https://cdn.jsdelivr.net
+    args: crossorigin
 
 # fonts
 
