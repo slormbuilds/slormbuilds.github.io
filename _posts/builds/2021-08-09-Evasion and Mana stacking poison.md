@@ -1,8 +1,9 @@
 ---
 title: Evasion and Mana stacking poison
-date: 2022-11-05 00:32:16 +0100
+date: 2021-08-09 00:32:16 +0100
 categories: [Builds, Huntress]
 tags: [builds, 0.3.x]
+author: Legrems
 ---
 
 Build explanation

@@ -1,8 +1,9 @@
 ---
 title: Arcane Knight
-date: 2022-11-05 00:53:26 +0100
+date: 2022-01-10 00:53:26 +0100
 categories: [Builds, Knight]
 tags: [builds, 0.4.x]
+author: Legrems
 ---
 
 Youtube Video
