@@ -3,6 +3,7 @@ title: List of challenges
 date: 2022-11-05 00:53:29 +0100
 categories: [Forge, Challenges]
 tags: [forge, 0.4.x]
+author: Legrems
 auto_generated: true
 ---
 # Challenges
@@ -23,18 +24,23 @@ auto_generated: true
 | Avenger | Enemies gain +3% Increased Damage whenever another enemy dies within a 5 yard radius. |
 | Unified | Enemies have +3% Increased Damage and +3% Movement Speed for every other enemy within a 3 yard radius. |
 | Assassins | Enemies have +5% Evasion and +10% Critical Strike Chance. |
-| Jetlag | Enemies are invulnerable for 2 seconds after coming out of a Breach. |
+| Jetlag | Every second, enemies have 15% Chance to become Invulnerable for 0.5 to 2 seconds |
 | Regeneration | Non-Elite Enemies regenerate 10% of their Max Life per second.<br>Elite Enemies regenerate 2% of their Max Life per second. |
 | Reconstruction | Enemies not receiving damage for 2 seconds restore their full Life. |
-| Assimilation | Enemies receive 15% Decreased Damage for each yard between them and the damage's source. |
-| Explosive | Enemies explode upon dying, dealing 10% of their Max Life as Skill Damage after 1.5 second within a 1.5 yard radius. |
-| Replicant | Enemies summon a copy of themselves when they reach 20% Life. |
+| Assimilation | Enemies receive 15% Decreased Damage for each yard between you and them. |
+| Explosive | Enemies explode upon dying, dealing 10% of their Base Max Life as Skill Damage after 3 second within a 1.5 yard radius. |
+| Replicant | Enemies have 30% Chance to summon a copy of themselves when they reach 20% Life. |
 | Reincarnation | Enemies have 25% Chance to be revived once upon dying. |
 | Floor is Lava | Enemies leave an area of Molten Lava upon dying, lasting 3 seconds and dealing 15 Fire Damage per second to Heroes and Minions standing on it. |
 | Ice Bombs | An Ice Bomb appears every 2 seconds.<br>Ice Bomb explodes after 2 seconds, dealing 90 Ice Damage and Freezing Heroes and Minions hit by the explosion for the next 1.5 seconds within a 2 yard radius. |
 | Light Beam | Light Beams continuously appear, dealing 29 Light Damage in a small area to Heroes and Minions hit. |
 | Fury of the Storm | Enemies trigger multiple Lightning Bolts around them upon dying, dealing 18 Lightning Damage to Heroes and Minions hit. |
 | Shadow Curse | Enemies create a Shadow Symbol below you upon dying.<br>The Shadow Symbol lasts 1.5 seconds and deals 21 Shadow Damage the first time you walk onto it. |
+| Fire Strike | Enemies deal 11 Fire Damage and have £ Chance to apply Burn for the next £ seconds. |
+| Ice Strike | Enemies deal 13 Ice Damage and have £ Chance to apply Chill for the next £ seconds. |
+| Lightning Strike | Enemies deal 10 Lightning Damage and have £ Chance to apply Shock for the next £ seconds. |
+| Light Strike | Enemies deal 14 Light Damage and have £ Chance to apply Daze, Slow, Armor Broken or Elemental Resistance Broken for the next £ seconds. |
+| Shadow Strike | Enemies deal 5 Shadow Damage and have £ Chance to apply Shadow Confusion for the next £ seconds. |
 | Greater Strength | Enemies deal +15% Increased Damage. |
 | Greater Vitality | Enemies have +30% Max Life. |
 | Greater Speed | Enemies have +5% Attack Speed and +10% Movement Speed. |
@@ -86,8 +92,8 @@ auto_generated: true
 | Unified | Enemies have +5% Increased Damage and +5% Movement Speed for every other enemy within a 5 yard radius. |
 | Assassins | Enemies have +10% Evasion and +15% Critical Strike Chance. |
 | Reconstruction | Enemies not receiving damage for 1 seconds restore their full Life. |
-| Explosive | Enemies explode upon dying, dealing 20% of their Max Life as Skill Damage after 1.5 second within a 2 yard radius. |
-| Replicant | Enemies summon a copy of themselves when they reach 50% Life. |
+| Explosive | Enemies explode upon dying, dealing 20% of their Base Max Life as Skill Damage after 3 second within a 2 yard radius. |
+| Replicant | Enemies have 30% Chance to summon a copy of themselves when they reach 50% Life. |
 | Ice Bombs | An Ice Bomb appears every 1 seconds.<br>Ice Bomb explodes after 2 seconds, dealing 90 Ice Damage and Freezing Heroes and Minions hit by the explosion for the next 3 seconds within a 2 yard radius. |
 | Shadow Curse | Enemies create a Shadow Symbol below you upon dying.<br>The Shadow Symbol lasts 3 seconds and deals 34 Shadow Damage the first time you walk onto it. |
 | The Siege Leader : Brutality | The Siege Leader has +20% Increased Damage. |
@@ -110,18 +116,19 @@ auto_generated: true
 | Iron Health | Enemies have +75% Max Life. |
 | Tenacious | Enemies have +100% Tenacity, granting resistance to Crowd Control and Knockback. |
 | Hermetic | Enemies have +75% Resistance to Damage over Time. |
-| Double Down | Enemies have +100% Recast Chance. |
+| Double Down | Enemies have +75% Recast Chance. |
 | Proliferation | Enemies have +75% Increased Area Size. |
 | Avenger | Enemies gain +10% Increased Damage whenever another enemy dies within a 5 yard radius. |
-| Jetlag | Enemies are invulnerable for 5 seconds after coming out of a Breach. |
-| Assimilation | Enemies receive 25% Decreased Damage for each yard between them and the damage's source. |
+| Jetlag | Every second, enemies have 30% Chance to become Invulnerable for 0.5 to 2 seconds |
+| Assimilation | Enemies receive 25% Decreased Damage for each yard between you and them. |
 | Gargantuan | Enemies are bigger and deal +200% Increased Damage until they receive damage. |
+| Reincarnation | Enemies have 50% Chance to be revived once upon dying. |
 | Light Beam | Light Beams continuously appear, dealing 58 Light Damage in a small area to Heroes and Minions hit. |
 | Neverending Strength | Enemies gain a 2% Increased Damage Multiplier everytime you complete a Wave. |
 | Neverending Vitality | Enemies gain a 4% Max Life Multiplier everytime you complete a Wave. |
 | Neverending Speed | Enemies gain a 2% Attack Speed Multiplier everytime you complete a Wave. |
 | Upgrade | The next Challenge is of {Epic} rarity. |
-| Obelisk of Transmutation | Spawns an Obelisk of Transmutation nearby.<br>While Obelisk of Transmutation is active, everytime an enemy dies, it restores Life equal to its Max Life to other enemies within a 5 yard radius. |
+| Obelisk of Transmutation | Spawns an Obelisk of Transmutation nearby.<br>While Obelisk of Transmutation is active, everytime an enemy dies, it restores Life equal to its Max Life to another random enemy. |
 | Obelisk of Destruction | Spawns an Obelisk of Destruction nearby.<br>While Obelisk of Destruction is active, it continuously casts Deadly Missiles in random directions. |
 | Obelisk of Illusion | Spawns an Obelisk of Illusion nearby.<br>While Obelisk of Illusion is active, you can only choose between 2 Challenges instead of 3. |
 | Obelisk of Annihilation | Spawns an Obelisk of Annihliation nearby.<br>While Obelisk of Annihilation is active, Enemies deal Increased Damage equal to the Percent of Life Left on Obelisk of Annihilation. |
@@ -141,19 +148,18 @@ auto_generated: true
 | Avenger | Enemies gain +15% Increased Damage whenever another enemy dies within a 5 yard radius. |
 | Unified | Enemies have +10% Increased Damage and +10% Movement Speed for every other enemy within a 5 yard radius. |
 | Assassins | Enemies have +20% Evasion and +30% Critical Strike Chance. |
-| Jetlag | Enemies are invulnerable for 7 seconds after coming out of a Breach. |
 | Regeneration | Non-Elite Enemies regenerate 20% of their Max Life per second.<br>Elite Enemies regenerate 4% of their Max Life per second. |
 | Gargantuan | Enemies are bigger and deal +300% Increased Damage until they receive damage. |
-| Explosive | Enemies explode upon dying, dealing 100% of their Max Life as Skill Damage after 1.5 second within a 3 yard radius. |
-| Replicant | Enemies summon a copy of themselves when they reach 90% Life. |
-| Reincarnation | Enemies have 100% Chance to be revived once upon dying. |
+| Explosive | Enemies explode upon dying, dealing 30% of their Base Max Life as Skill Damage after 3 second within a 3 yard radius. |
+| Replicant | Enemies have 30% Chance to summon a copy of themselves when they reach 90% Life. |
+| Reincarnation | Enemies have 75% Chance to be revived once upon dying. |
 | Floor is Lava | Enemies leave an area of Molten Lava upon dying, lasting 7 seconds and dealing 40 Fire Damage per second to Heroes and Minions standing on it. |
 | Ice Bombs | An Ice Bomb appears every 0.3 seconds.<br>Ice Bomb explodes after 1.5 seconds, dealing 120 Ice Damage and Freezing Heroes and Minions hit by the explosion for the next 3 seconds within a 2 yard radius. |
 | Shadow Curse | Enemies create a Shadow Symbol below you upon dying.<br>The Shadow Symbol lasts 5 seconds and deals 61 Shadow Damage the first time you walk onto it. |
 | Overcrowding | The following Wave has +50% more enemies. |
 | Ace Combat | The following Wave has 6 additional Elite enemies. |
 | Upgrade | The next Challenge is of {Legendary} rarity. |
-| Obelisk of Transmutation | Spawns an Obelisk of Transmutation nearby.<br>While Obelisk of Transmutation is active, everytime an enemy dies, it restores Life equal to its Max Life to other enemies within a 5 yard radius. |
+| Obelisk of Transmutation | Spawns an Obelisk of Transmutation nearby.<br>While Obelisk of Transmutation is active, everytime an enemy dies, it restores Life equal to its Max Life to another random enemy. |
 | Obelisk of Destruction | Spawns an Obelisk of Destruction nearby.<br>While Obelisk of Destruction is active, it continuously casts Deadly Missiles in random directions. |
 | Obelisk of Illusion | Spawns an Obelisk of Illusion nearby.<br>While Obelisk of Illusion is active, you can only choose between 2 Challenges instead of 3. |
 | Obelisk of Annihilation | Spawns an Obelisk of Annihliation nearby.<br>While Obelisk of Annihilation is active, Enemies deal Increased Damage equal to the Percent of Life Left on Obelisk of Annihilation. |

@@ -6,6 +6,10 @@ tags: [builds, 0.4.x]
 author: Wiffle
 ---
 
+# Note
+
+This build wasn't tested after the nerf to leech (that happened in [The Luxuriant Update: Part I](/posts/6368680725434905917)). It may need some adjustement.
+
 # Why play this build
 ![](https://steamuserimages-a.akamaihd.net/ugc/1779508796541907929/4DA2D4B5EFEA69C4837E90AD62038CF78C345989/)
 
@@ -197,11 +201,6 @@ Nothing noteworthy. Damasius Awareness would be great for us but it unfortunatel
 If you have any questions, feel free to leave them in the comments. 
 
 ![](https://steamuserimages-a.akamaihd.net/ugc/1779508796541912129/C8B9D38C7B4D6BE230BF7840852E546FDC8F7BBF/)
-
-
-# Note
-
-This build wasn't tested after the nerf to leech (that happened in [The Luxuriant Update: Part I](/posts/6368680725434905917)). It may need some adjustement.
 
 # Original guide
 
