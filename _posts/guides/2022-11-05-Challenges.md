@@ -3,6 +3,7 @@ title: List of challenges
 date: 2022-11-05 00:53:29 +0100
 categories: [Forge, Challenges]
 tags: [forge, 0.4.x]
+auto_generated: true
 ---
 # Challenges
 

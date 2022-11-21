@@ -63,6 +63,10 @@ tail_includes:
         {% assign authors = page.authors %}
       {% endif %}
 
+      {% if page.auto_generated %}
+      [Auto-generated content]
+      {% endif %}
+
       {{ site.data.locales[site.lang].post.written_by }}
 
       <em>
