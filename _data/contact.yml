@@ -11,3 +11,7 @@
   type: rss
   icon: 'fas fa-rss'
   noblank: true
+-
+  type: discord
+  icon: 'fab fa-discord'
+  url: https://discord.gg/f7KrhqHcdD
