@@ -59,7 +59,7 @@ Giant Staff of the Giant Slayer (normal version, max level, max affinity)
 ![](/assets/posts/legendaries/cape/soul_mantle.png)
 _Most important, not optional_
 
-#### Ancient Frotfire Talisman (Amulet)
+#### Ancient Frostfire Talisman (Amulet)
 
 ![](/assets/posts/legendaries/amulet/ancient_frostfire.png)
 _Ice-Imbued Skills apply Burn to enemies hit_
@@ -96,7 +96,7 @@ In an earlier version of the build i tried with Ancestral Strike Chance and it w
 - Thornbite Rune, because that is our safety shield in case attacks go through
 - Enhancement Rune of Hagan, so we get more shield value
 
-There is cooldown much fast a Rune can be activated, thats why constrain reduction is a lost in shield value.
+There is a cooldown on how fast Runes can be activated, thats why constrain reduction is a lost in shield value.
 
 ## Skills
 ### Ray of Obliteration
