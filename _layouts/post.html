@@ -62,11 +62,11 @@ script_includes:
             {% assign authors = page.authors %}
           {% endif %}
 
-          {{ site.data.locales[lang].post.written_by }}
-
           {% if page.auto_generated %}
           [Auto-generated content]
           {% endif %}
+
+          {{ site.data.locales[lang].post.written_by }}
 
           <em>
             {% if authors %}
