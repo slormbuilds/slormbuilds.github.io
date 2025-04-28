@@ -5,6 +5,9 @@ refactor: true
 
 {% include lang.html %}
 
+<script src="https://cdn.logwork.com/widget/countdown.js"></script>
+<a href="https://logwork.com/countdown-6gyg" class="countdown-timer" data-style="columns" data-timezone="Europe/Zurich" data-date="2025-05-13 19:00">THE SLORMANCER RELEASE</a>
+
 {% assign all_pinned = site.posts | where: 'pin', 'true' %}
 {% assign all_normal = site.posts | where_exp: 'item', 'item.pin != true and item.hidden != true' %}
 
