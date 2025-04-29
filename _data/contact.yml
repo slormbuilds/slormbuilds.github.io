@@ -13,6 +13,10 @@
 - type: rss
   icon: "fas fa-rss"
   noblank: true
+
+- type: discord
+  icon: "fab fa-discord"
+  url: https://discord.gg/f7KrhqHcdD
 # Uncomment and complete the url below to enable more contact options
 #
 # - type: mastodon
