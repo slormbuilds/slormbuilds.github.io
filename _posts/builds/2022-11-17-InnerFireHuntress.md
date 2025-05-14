@@ -9,7 +9,7 @@ author: PLM
 Youtube Video
 =============
 
-<a href="https://www.youtube.com/watch?v=jbuXuzwM528&ab_channel=PLMPlays" target="_blank">Youtube Video here</a>
+{% include embed/youtube.html id="jbuXuzwM528" %}
 
 Build explanation
 =================

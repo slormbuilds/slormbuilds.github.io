@@ -9,7 +9,7 @@ author: Legrems
 Youtube Video
 =============
 
-[Youtube Video here](https://www.youtube.com/watch?v%3DbvP-_dcVVmM&sa=D&source=editors&ust=1667579095108133&usg=AOvVaw2KMjiSAWjrD99qih-3J_gF)
+{% include embed/youtube.html id="bvP-_dcVVmM" %}
 
 Build explanation
 =================
@@ -300,7 +300,7 @@ This setup does not use epic stat at all. The image is at Wrath 7.
 
 ### [Very late-game Gear (+15 legendary)](https://cayrac.github.io/slorm-planner/view/build/acZiDEqWhdqaLa9GJOxAh5IvQWaEaeaaN3l_Y$OXkmytkeZkm3ttea20aYGpOeXbEGyebaafEayab20eYHoeuAfmrwOcaajaaOcWzb6GbgtpaiMqqgnnkG9qtaOGmccaYQib60eblihipCbeYaaJjMIaXPPuhYcyfebIWqgvrapEOGfzbzb6Gcfaaezmyqwncja_Y6aOGmbIaYQib60edtipipCaqOaaJjMsbrPLulbOzvebKGqgaXapEOGzzczb6Gcfaaezm7qknmGGgndd3OmwcaXgib60efRixipCb7YahIHPsibOrigHGuqgaXazvegOpEOGRzdzb6abLdlebehsOcdqWkidkOGmKcaE8raSYhYd1adkgQicioBqegHGuqgvraziea85IbDKrKhSagubarbYsaO_ZteyGmQIaWiib60eeRiNipyaiYAiGuAzvaSAgaXaziebLuqd2QihgrwqEWcjKeAJtvOQJtsmcIaWwidayGhVuqwmIxGfmGaaahGgaGegGAiic7&sa=D&source=editors&ust=1667579095135165&usg=AOvVaw28b-uQ5vsP6Y9Hyr5z-roz)
 
-[Youtube video here](https://www.youtube.com/watch?v%3DbvP-_dcVVmM&sa=D&source=editors&ust=1667579095135611&usg=AOvVaw26aB68x-0LV6Ov-Pt-UU4v).
+{% include embed/youtube.html id="bvP-_dcVVmM" %}
 
 Alternative version
 -------------------

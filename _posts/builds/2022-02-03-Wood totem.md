@@ -9,7 +9,7 @@ author: Legrems
 Youtube Video
 =============
 
-[Youtube Video here](https://youtu.be/KZwvF5VXlSQ&sa=D&source=editors&ust=1667579256776870&usg=AOvVaw0nv0YoG8oYqV7cqFJZlbN7)
+{% include embed/youtube.html id="KZwvF5VXlSQ" %}
 
 Build explanation
 =================

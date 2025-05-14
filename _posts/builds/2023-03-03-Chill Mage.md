@@ -137,7 +137,7 @@ but it has just a 30% to trigger and breaks instantly, because of our amount of 
 for a longer duration.
 
 # Gameplay Video of an older version of the build
-<a href="https://www.youtube.com/watch?v=w5vHdWpXtSw" target="_blank">Youtube video here</a>
+{% include embed/youtube.html id="w5vHdWpXtSw" %}
 
 # Link for my current version of the build
 <a href="https://cayrac.github.io/slorm-planner/view/build/aWyyxgtjgFmFBEObbkiGUKGWh_cTaTqXuoLezvGa7alWbpUx0ggjJ_zDgAjOcAiGg7aJ5G2qrQefbcitgaRWdpao7bdWeVau9O$_qiKhrekrLwdGnCaiYx3b7YcbX9qiijHWsggbeyAesmAQcbsdSgUaezad4HeqeeGgqta3OmmIGWmh_y0uaY9lGmCaqXaaJiiGijaSEMtbqykeXK3uiXQOdvGFyA3a4JacMqqwqsbbbmjcGYMftdqOrJvqImroW0WcdiaemL9ifijaCGgvXoyLcXHOtJXQOb0OU3A3d4zaags4Knd7GqqdbqCmlcGXckeB0ufBcBqnycaYcvsarphHGmqMhHozeeYmAAe8Jp3gSbazbj4biQKeWmiZbyOmjcrgnna1PO5dgaGmqGCGKbsazve4IWtghXqJgQrqxu8HRacMisEqsa39mMcGYugZfOOhJvqoSIHG0Gbc5iAhre7GMbXgyrePJmkOXQOh0HJWabalqa_GdaSbqqaaaaa" target="_blank">Planner link here</a>
