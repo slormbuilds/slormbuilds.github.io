@@ -78,6 +78,10 @@ script_includes:
               <a href="{{ site.social.links[0] }}">{{ site.social.name }}</a>
             {% endif %}
           </em>
+
+          {% if page.auto_generated %}
+            (Auto generated content)
+          {% endif %}
         </span>
 
         <div>
