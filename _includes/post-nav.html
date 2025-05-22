@@ -7,13 +7,13 @@
   {% if page.previous.url %}
     <a
       href="{{ site.baseurl }}{{ page.previous.url }}"
-      class="btn btn-outline-primary"
+      class="btn btn-outline-success"
       aria-label="{{ previous }}"
     >
       <p>{{ page.previous.title }}</p>
     </a>
   {% else %}
-    <div class="btn btn-outline-primary disabled" aria-label="{{ previous }}">
+    <div class="btn btn-outline-success disabled" aria-label="{{ previous }}">
       <p>-</p>
     </div>
   {% endif %}
@@ -21,13 +21,13 @@
   {% if page.next.url %}
     <a
       href="{{ site.baseurl }}{{page.next.url}}"
-      class="btn btn-outline-primary"
+      class="btn btn-outline-success"
       aria-label="{{ next }}"
     >
       <p>{{ page.next.title }}</p>
     </a>
   {% else %}
-    <div class="btn btn-outline-primary disabled" aria-label="{{ next }}">
+    <div class="btn btn-outline-success disabled" aria-label="{{ next }}">
       <p>-</p>
     </div>
   {% endif %}
